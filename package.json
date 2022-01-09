@@ -1,0 +1,16 @@
+{
+    "name": "@obscuredc/note",
+    "version": "1.0.0",
+    "description": "generates loading screen tip messages",
+    "license": "",
+    "repository": "obscuredc/note",
+    "main": "index.js",
+    "keywords": [
+        "note",
+        "npm",
+        "package",
+        "obscuredc",
+        "splashscreen",
+        "tips"
+    ]
+}
